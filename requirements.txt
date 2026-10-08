@@ -1,0 +1,16 @@
+pymupdf
+sentence-transformers
+faiss-cpu
+langchain-text-splitters
+numpy
+tqdm
+fastapi
+uvicorn[standard]
+groq
+python-dotenv
+httpx
+torch
+transformers>=4.51
+ultralytics
+huggingface_hub
+open_clip_torch
